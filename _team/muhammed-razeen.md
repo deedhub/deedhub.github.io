@@ -6,6 +6,7 @@ image: "images/team/jake.jpg"
 jobtitle: "Founder"
 linkedinurl: ""
 weight: 1
+promoted: true
 layout: team
 ---
 
